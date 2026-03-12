@@ -66,58 +66,6 @@
       "icon_url": "",
       "category": "data_loader",
       "tags": ["csv", "file", "loader"],
-      "version": "1.0.3",
-      "min_plotjuggler_version": "4.0.0",
-      "plugins": [
-        {
-          "name": "CsvLoader",
-          "type": "data_loader",
-          "library": "csv-loader"
-        }
-      ],
-      "platforms": {
-        "linux-x86_64": {
-          "url": "https://github.com/PlotJuggler/pj-test-dummy-plugins/releases/download/csv-loader/v1.0.3/csv-loader-1.0.3-linux-x86_64.zip",
-          "checksum": "sha256:a5bc2233d7d919a5c9f7ece6b3f2902a1fd2f971a934c019f50ba5796576103b"
-        },
-        "linux-arm64": {
-          "url": "https://github.com/PlotJuggler/pj-test-dummy-plugins/releases/download/csv-loader/v1.0.3/csv-loader-1.0.3-linux-aarch64.zip",
-          "checksum": "sha256:c2d83ceddb86e438aa87d7c7694468c51f1660f0eda49e33d3182eb3b456e515"
-        },
-        "windows-x86_64": {
-          "url": "https://cloud.ibrobotics.com/public.php/dav/files/aQgzSYywW2onrB3/?accept=zip",
-          "checksum": "sha256:324e8016b38bce3365d4f4b71035eb8e6518445e06a599f9dd2d7e2ecbc50c02"
-        },
-        "windows-arm64": {
-          "url": "https://cloud.ibrobotics.com/public.php/dav/files/PLACEHOLDER/?accept=zip",
-          "checksum": "sha256:PLACEHOLDER"
-        },
-        "macos-x86_64": {
-          "url": "https://github.com/PlotJuggler/pj-test-dummy-plugins/releases/download/csv-loader/v1.0.3/csv-loader-1.0.3-macos-x86_64.zip",
-          "checksum": "sha256:f8e2d36ad52d2ceb131f1350f3e61d2d646cc0224beb2492dc7e5b6a7a4de4f3"
-        },
-        "macos-arm64": {
-          "url": "https://github.com/PlotJuggler/pj-test-dummy-plugins/releases/download/csv-loader/v1.0.3/csv-loader-1.0.3-macos-arm64.zip",
-          "checksum": "sha256:4199f43a8a53ea62b4d11a117ca7d1f573f3c9385dba3016d0b9933d9ac54e2a"
-        }
-      },
-      "changelog": {
-        "1.0.3": "Updated release",
-        "1.0.0": "Initial release"
-      }
-    },
-    { 
-      "id": "csv-loader",
-      "name": "CSV Loader",
-      "description": "Data loader for CSV files.",
-      "author": "PlotJuggler Team",
-      "publisher": "PlotJuggler",
-      "website": "https://github.com/PlotJuggler",
-      "repository": "https://github.com/PlotJuggler/pj-test-dummy-plugins",
-      "license": "MIT",
-      "icon_url": "",
-      "category": "data_loader",
-      "tags": ["csv", "file", "loader"],
       "version": "1.0.4",
       "min_plotjuggler_version": "4.0.0",
       "plugins": [
