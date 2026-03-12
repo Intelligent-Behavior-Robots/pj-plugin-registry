@@ -106,7 +106,7 @@
         "1.0.0": "Initial release"
       }
     },
-    { // Fake version 1.0.4 to check updates
+    { 
       "id": "csv-loader",
       "name": "CSV Loader",
       "description": "Data loader for CSV files.",
