@@ -1,6 +1,6 @@
 {
   "registry_version": "1.0",
-  "last_updated": "2026-03-12T00:00:00Z",
+  "last_updated": "2026-03-13T00:00:00Z",
   "extensions": [
     {
       "id": "can-bus-parser",
@@ -8,13 +8,13 @@
       "description": "Parser for CAN bus data frames.",
       "author": "PlotJuggler Team",
       "publisher": "PlotJuggler",
-      "website": "https://github.com/PlotJuggler/pj-test-dummy-plugins/releases/tag/can-bus-parser%2Fv1.0.3",
+      "website": "https://github.com/PlotJuggler/pj-test-dummy-plugins/releases/tag/can-bus-parser%2Fv1.0.5",
       "repository": "https://github.com/PlotJuggler/pj-test-dummy-plugins",
       "license": "MIT",
       "icon_url": "",
       "category": "parser",
       "tags": ["can", "bus", "parser"],
-      "version": "1.0.3",
+      "version": "1.0.5",
       "min_plotjuggler_version": "4.0.0",
       "plugins": [
         {
@@ -25,24 +25,24 @@
       ],
       "platforms": {
         "linux-x86_64": {
-          "url": "https://cloud.ibrobotics.com/public.php/dav/files/ZeTdm6dL7JC3PsH/?accept=zip",
-          "checksum": "sha256:dade55a71c1e1236c37d1e99856eeeb41376561b121a20951260f776448d5c4d"
+          "url": "https://github.com/PlotJuggler/pj-test-dummy-plugins/releases/download/can-bus-parser/v1.0.5/can-bus-parser-1.0.5-linux-x86_64.zip",
+          "checksum": "sha256:a96e55050ddea186ed0f0752ae67ec8d65d71404b186e99f6344c24225b2675b"
         },
         "linux-arm64": {
-          "url": "https://github.com/PlotJuggler/pj-test-dummy-plugins/releases/download/can-bus-parser/v1.0.3/can-bus-parser-1.0.3-linux-aarch64.zip",
-          "checksum": "sha256:7e4e592c5da0e738b84398ae5bcb3fb981399b7dc8135ccbe58c7fbc95f1e34a"
+          "url": "https://github.com/PlotJuggler/pj-test-dummy-plugins/releases/download/can-bus-parser/v1.0.5/can-bus-parser-1.0.5-linux-aarch64.zip",
+          "checksum": "sha256:58af363d12dbdad678ddf0b4563dbe9eb69054c1e1bde5aeb574c73b131ba161"
         },
         "windows-x86_64": {
-          "url": "https://cloud.ibrobotics.com/public.php/dav/files/TCCD6nomTAsnQRq/?accept=zip",
-          "checksum": "sha256:dade55a71c1e1236c37d1e99856eeeb41376561b121a20951260f776448d5c4d"
+          "url": "https://cloud.ibrobotics.com/public.php/dav/files/PLACEHOLDER/?accept=zip",
+          "checksum": "sha256:PLACEHOLDER"
         },
         "windows-arm64": {
           "url": "https://cloud.ibrobotics.com/public.php/dav/files/PLACEHOLDER/?accept=zip",
           "checksum": "sha256:PLACEHOLDER"
         },
         "macos-x86_64": {
-          "url": "https://cloud.ibrobotics.com/public.php/dav/files/PLACEHOLDER/?accept=zip",
-          "checksum": "sha256:PLACEHOLDER"
+          "url": "https://github.com/PlotJuggler/pj-test-dummy-plugins/releases/download/can-bus-parser/v1.0.5/can-bus-parser-1.0.5-macos-x86_64.zip",
+          "checksum": "sha256:fd6f9d2c2ae3e03b0ac1d7a3b95ec034d1607c9f23319bc7b0a70f74acf96d4a"
         },
         "macos-arm64": {
           "url": "https://cloud.ibrobotics.com/public.php/dav/files/PLACEHOLDER/?accept=zip",
@@ -50,6 +50,7 @@
         }
       },
       "changelog": {
+        "1.0.5": "Updated release",
         "1.0.3": "Updated release",
         "1.0.0": "Initial release"
       }
