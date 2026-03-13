@@ -60,13 +60,13 @@
       "description": "Data loader for CSV files.",
       "author": "PlotJuggler Team",
       "publisher": "PlotJuggler",
-      "website": "https://github.com/PlotJuggler/pj-test-dummy-plugins/releases/tag/csv-loader%2Fv1.0.3",
+      "website": "https://github.com/PlotJuggler/pj-test-dummy-plugins/releases/tag/csv-loader%2Fv1.0.5",
       "repository": "https://github.com/PlotJuggler/pj-test-dummy-plugins",
       "license": "MIT",
       "icon_url": "",
       "category": "data_loader",
       "tags": ["csv", "file", "loader"],
-      "version": "1.0.4",
+      "version": "1.0.5",
       "min_plotjuggler_version": "4.0.0",
       "plugins": [
         {
@@ -77,12 +77,12 @@
       ],
       "platforms": {
         "linux-x86_64": {
-          "url": "https://cloud.ibrobotics.com/public.php/dav/files/9xBz6zdDn5WYJ6c/?accept=zip",
-          "checksum": "sha256:324e8016b38bce3365d4f4b71035eb8e6518445e06a599f9dd2d7e2ecbc50c02"
+          "url": "https://github.com/PlotJuggler/pj-test-dummy-plugins/releases/download/csv-loader/v1.0.5/csv-loader-1.0.5-linux-x86_64.zip",
+          "checksum": "sha256:bd796f964ab31c4e6506207cab66d05b48a30094abd4047d129fd636279f2aed"
         },
         "linux-arm64": {
-          "url": "https://cloud.ibrobotics.com/public.php/dav/files/PLACEHOLDER/?accept=zip",
-          "checksum": "sha256:PLACEHOLDER"
+          "url": "https://github.com/PlotJuggler/pj-test-dummy-plugins/releases/download/csv-loader/v1.0.5/csv-loader-1.0.5-linux-aarch64.zip",
+          "checksum": "sha256:32c53b46a3b16ade29a7fd5aa8ecfe2d1912eaac410e7c3f384939b68d5fede5"
         },
         "windows-x86_64": {
           "url": "https://cloud.ibrobotics.com/public.php/dav/files/PLACEHOLDER/?accept=zip",
@@ -93,15 +93,16 @@
           "checksum": "sha256:PLACEHOLDER"
         },
         "macos-x86_64": {
-          "url": "https://cloud.ibrobotics.com/public.php/dav/files/PLACEHOLDER/?accept=zip",
-          "checksum": "sha256:PLACEHOLDER"
+          "url": "https://github.com/PlotJuggler/pj-test-dummy-plugins/releases/download/csv-loader/v1.0.5/csv-loader-1.0.5-macos-x86_64.zip",
+          "checksum": "sha256:1712295fc280eef1340827b9fc54d7c92f7ce03233e5ca544a84857597a34a61"
         },
         "macos-arm64": {
-          "url": "https://cloud.ibrobotics.com/public.php/dav/files/PLACEHOLDER/?accept=zip",
-          "checksum": "sha256:PLACEHOLDER"
+          "url": "https://github.com/PlotJuggler/pj-test-dummy-plugins/releases/download/csv-loader/v1.0.5/csv-loader-1.0.5-macos-arm64.zip",
+          "checksum": "sha256:0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
         }
       },
       "changelog": {
+        "1.0.5": "Updated release",
         "1.0.4": "Updated release",
         "1.0.0": "Initial release"
       }
